@@ -1,8 +1,8 @@
 ## Olá! Meu Nome é João Murja
 
-📚 Estudando: ETEC - Programação Web 2/3
-🖥️ Amante da Informatica
-👁️ Front-End
+📚 Estudando: ETEC - Programação Web 2/3 <br>
+🖥️ Amante da Informatica <br>
+👁️ Front-End <br>
 
 <div align="center">
   <a href="https://github.com/Jmurja">

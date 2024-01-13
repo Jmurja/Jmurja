@@ -3,7 +3,6 @@
 📚 Tecnico em Programação Web <br>
 🖥️ Amante da Informatica <br>
 📖 Cursando Sistemas de Informação <br>
-👁️ Front-End <br>
 
 <div align="center">
   <a href="https://github.com/Jmurja">

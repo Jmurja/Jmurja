@@ -1,7 +1,7 @@
-## Olá! Meu Nome é João Murja
+## Olá! Meu nome é João Murja
 
-📚 Tecnico em Programação Web <br>
-🖥️ Amante da Informatica <br>
+📚 Técnico em Programação Web <br>
+🖥️ Amante da Informática <br>
 📖 Cursando Sistemas de Informação <br>
 
 <div align="center">

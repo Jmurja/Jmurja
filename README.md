@@ -1,13 +1,23 @@
-# Olá! Meu nome é João Murja
+# João Murja - GitHub Profile
 
-📚 Técnico em Programação Web  
-🖥️ Amante da Informática  
-📖 Cursando Sistemas de Informação  
+## 👋 Olá, Eu sou o João Murja!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jmurja-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jmurja-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jmurja-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jmurja-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-</div>
+**Me chamam de Murja.**
 
+Sou um desenvolvedor WEB apaixonado. Eu me especializo na construção de sites bonitos e eficientes usando **Tailwind CSS**, **Javascript** e **Laravel**. Atualmente estou cursando graduação em Sistemas de Informação e tenho formação como Técnico em Programação Web.
+
+---
+
+## 🚀 Technologies & Tools
+
+- **Languages & Frameworks:**
+  - Tailwind CSS
+  - CSS
+  - Laravel
+  - JavaScript
+
+- **Tools & Platforms:**
+  - Git & GitHub
+  - PHPStorm
+  - Laravel Blade
+  

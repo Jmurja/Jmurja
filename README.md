@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o João Murja</h1>
-<h3 align="center">Desenvolvedor apaixonado por tecnologia, de Bebedouro-SP 🇧🇷</h3>
+<h3 align="center">Desenvolvedor 🇧🇷</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/jmurja/count.svg?" alt="Contador de visitas" />

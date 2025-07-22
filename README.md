@@ -12,7 +12,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🔭 Atualmente trabalho com **Laravel, PHP e JavaScript**
-- 🎧 Gosto de codar ao som de **rock**
+- 🎧 Gosto de codar ouvindo um bom e velho **rock n roll**
 - 📫 Entre em contato: [jmurja.filho@gmail.com](mailto:jmurja.filho@gmail.com)
 
 ---

@@ -1,10 +1,6 @@
 <h1 align="center">João Murja</h1>
 <h3 align="center">Data</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jmurja/count.svg?" alt="Contador de visitas" />
-</div>
-
 ### 
 
 <div align="center">

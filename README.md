@@ -1,36 +1,9 @@
-<h1 align="center">Olá 👋, eu sou o João Murja</h1>
-<h3 align="center">Desenvolvedor 🇧🇷</h3>
+<h1 align="center">João Murja</h1>
+<h3 align="center">Data</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/jmurja/count.svg?" alt="Contador de visitas" />
 </div>
-
----
-
-<img align="right" src="https://media.tenor.com/gmUmuAcdK78AAAAM/batman.gif" height="200" alt="Batman gif" />
-
-### 👨‍💻 Sobre mim
-
-- 🔭 Atualmente trabalho com **Laravel, PHP e JavaScript**
-- 🎧 Gosto de codar ouvindo um bom e velho **rock n roll**
-- 📫 Entre em contato: [jmurja.filho@gmail.com](mailto:jmurja.filho@gmail.com)
-
----
-
-### 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="PhpStorm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="Apple" />
-</div>
-
----
 
 ### 
 
@@ -38,17 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jmurja&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmurja&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" />
 </div>
-
----
-
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/sb5rxqksfit2d8ji7um3ydy2y" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sb5rxqksfit2d8ji7um3ydy2y&count=5" alt="Spotify Recently Played" />
-  </a>
-</div>
-
----
 
 ### 
 
